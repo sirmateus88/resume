@@ -1,0 +1,88 @@
+.App {
+  /* text-align: center; */
+}
+
+h1,h2,h3,h4,h5{
+  margin: 8px;
+}
+
+h6{
+  margin: 2px;
+  padding-left: 6px;
+}
+
+.App-header {
+  background-color: #0a2009;
+  height: 90px;
+  padding: 10px;
+  color: white;
+}
+
+.App-title {
+  font-size: 1.5em;
+}
+
+.App-intro {
+  font-size: large;
+}
+
+.ResumeBody{
+  padding: 10px 20px;
+  display: flex;
+}
+
+.ExperienceEducation {
+  padding-right: 20px;
+  flex: 4;
+}
+
+.PersonalAndSkills {
+  background-color: rgb(215, 215, 215);
+  padding: 10px;
+  flex: 1;
+}
+
+.PersonalAndSkills p {
+  font-size: 12px;
+}
+
+.PersonalInfo div {
+  display: flex;
+  justify-content: space-between;
+}
+
+.SkillPills {
+  margin-top: 5px;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
+
+.SkillPills > div{
+  margin: 3px !important;
+}
+
+.underline {
+  width: 90%;
+  height: 1px;
+  background-color: rgb(50,50,50);
+}
+
+.ProjectItemHeader,.ExperienceItemHeader,.topHeader {
+  display: flex;
+  flex-direction: column;
+}
+
+.topHeader {
+  justify-content: space-between;
+  flex-direction: row;
+  height: 25px;
+}
+
+li {
+  font-size: 12px;
+}
+
+ul {
+  margin: 3px;
+}
