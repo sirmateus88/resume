@@ -204,7 +204,7 @@ class App extends Component {
               </div>
               <div>
                 <h5>Linkedin: </h5>
-                <p>https://www.linkedin.com/in/matthew-appleby-01a17336</p>
+                <p>linkedin.com/in/matthew-appleby-01a17336</p>
               </div>
 
               <div>
