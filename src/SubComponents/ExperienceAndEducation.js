@@ -11,19 +11,24 @@ function ExperienceAndEducation() {
           <div className="ProjectItemHeader">
             <div className="topHeader">
               <h5>Paynless</h5>
-              <h5>March 2018</h5>
+              <h5>April 2018</h5>
             </div>
-            <h6>Developer</h6>
+            <h6>A point-of-sale app that allows users to pay their merchant
+              without ever reaching for their credit cards or tapping their
+              phone on a terminal</h6>
           </div>
           <ul>
             <li>
-              A point-of-sale app that allows users to pay their merchant
-              without ever reaching for their credit cards or tapping their
-              phone on a terminal.
+              Built the bar tab component using firestore and react, so that open tabs appear instantly for the merchant and updates appear instantly for the customer.
             </li>
             <li>
-              Built as a progressive web app using react, material UI and
-              firebase firestore.
+              Created a favoriting component so that users can quickly and easily access their favorite merchants
+            </li>
+            <li>
+              Integrated firestore functions with the checkout functionality in react, including loading state and error handling.
+            </li>
+            <li>
+              Deployed at https://paynless.co
             </li>
           </ul>
         </div>
@@ -34,16 +39,15 @@ function ExperienceAndEducation() {
               <h5>Recipily</h5>
               <h5>March 2018</h5>
             </div>
-            <h6>Sole Developer</h6>
+            <h6>A mobile smart recipe viewer that allows the user to scroll
+              through the recipe without touching the screen</h6>
           </div>
           <ul>
             <li>
-              A mobile smart recipe viewer that allows the user to scroll
-              through the recipe without touching the screen!
+              Learned react native to build a mobile recipe viewer which uses sensor data to allow for touchless scrolling.
             </li>
             <li>
-              Built in 4 days at Fullstack Academy's hackathon using react
-              native.
+              Created web scraper for smitten kitchen using mercury to download html content.
             </li>
           </ul>
         </div>
@@ -52,15 +56,14 @@ function ExperienceAndEducation() {
           <div className="ProjectItemHeader">
             <div className="topHeader">
               <h5>React Real Time Form Validation</h5>
-              <h5>March 2018</h5>
+              <h5>February 2018</h5>
             </div>
-            <h6>Sole Developer</h6>
+            <h6>Library that allows you to add real time validation to your react
+              forms</h6>
           </div>
           <ul>
             <li>
-              Library that allows you to add real time validation to your react
-              forms with some quick boilerplate, simple rules setup, and some
-              helpful components to display errors.
+              Built and published npm module react-real-time-form-validation, which was downloaded 477 times in its first month.
             </li>
             <li>
               https://www.npmjs.com/package/react-real-time-form-validation
@@ -145,15 +148,10 @@ function ExperienceAndEducation() {
           <div className="EducationItem">
             <div className="topHeader">
               <h5>Fullstack Academy</h5>
-              <h5>March 2018</h5>
+              <h5>Graduated April 2018</h5>
             </div>
             <ul>
               <li>Learned full-stack javascript software development.</li>
-              <li>
-                Worked with Node.js, Sequelize, Express, React, Redux, React
-                Native, PostgreSQL, and Firebase to create various full-stack
-                software applications.
-              </li>
             </ul>
           </div>
           <div className="EducationItem">
@@ -163,10 +161,6 @@ function ExperienceAndEducation() {
             </div>
             <ul>
               <li>Major: Mathematical Sciences</li>
-              <li>
-                Relevant Courses: Partial Differential Equations, Mathematical
-                Modeling, Introduction to Python
-              </li>
             </ul>
           </div>
         </div>

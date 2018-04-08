@@ -47,6 +47,7 @@ function PersonalInfoAndSkills() {
           <Chip backgroundColor={blue300}>HTML</Chip>
           <Chip backgroundColor={blue300}>CSS</Chip>
           <Chip backgroundColor={blue300}>Agile</Chip>
+          <Chip backgroundColor={blue300}>Debugging</Chip>
         </div>
         <h5>Familiar:</h5>
         <div className="SkillPills">
