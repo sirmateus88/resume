@@ -37,8 +37,8 @@ h6{
 }
 
 .PersonalAndSkills {
-  background-color: rgb(215, 215, 215);
-  padding: 10px;
+  background-color: rgb(245, 245, 245);
+  padding: 0 10px;
   flex: 1;
 }
 
@@ -48,7 +48,7 @@ h6{
 
 .PersonalInfo div {
   display: flex;
-  justify-content: space-between;
+  justify-content: flex-start;
   align-items: center;
 }
 
