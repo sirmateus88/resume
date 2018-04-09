@@ -13,16 +13,16 @@ function ExperienceAndEducation() {
               <h5>Paynless</h5>
               <h5>April 2018</h5>
             </div>
-            <h6>A point-of-sale app that allows users to pay their merchant
-              without ever reaching for their credit cards or tapping their
+            <h6>A food service centric, point-of-sale app that allows customers to pay merchants
+              without reaching for their credit card or tapping their
               phone on a terminal</h6>
           </div>
           <ul>
             <li>
-              Built the bar tab component using firestore and react, so that open tabs appear instantly for the merchant and updates appear instantly for the customer.
+              Built the bar tab component using firestore and react which allows for instantaneous updates on both the customer and merchant interface when tabs are opened, updated, and closed.
             </li>
             <li>
-              Created a favoriting component so that users can quickly and easily access their favorite merchants
+              Created a "favorites" component that allows users to quickly and easily access their favorite merchants.
             </li>
             <li>
               Integrated firestore functions with the checkout functionality in react, including loading state and error handling.
@@ -39,15 +39,14 @@ function ExperienceAndEducation() {
               <h5>Recipily</h5>
               <h5>March 2018</h5>
             </div>
-            <h6>A mobile smart recipe viewer that allows the user to scroll
-              through the recipe without touching the screen</h6>
+            <h6>A mobile, smart recipe viewer that gives users a hands free way to scroll through recipes</h6>
           </div>
           <ul>
             <li>
               Learned react native to build a mobile recipe viewer which uses sensor data to allow for touchless scrolling.
             </li>
             <li>
-              Created web scraper for smitten kitchen using mercury to download html content.
+              Created web scraper to download recipes from SmittenKitchen.com using mercury to download html content.
             </li>
           </ul>
         </div>
@@ -58,7 +57,7 @@ function ExperienceAndEducation() {
               <h5>React Real Time Form Validation</h5>
               <h5>February 2018</h5>
             </div>
-            <h6>Library that allows you to add real time validation to your react
+            <h6>Library that allows you to add real-time input validation to react
               forms</h6>
           </div>
           <ul>
@@ -123,8 +122,8 @@ function ExperienceAndEducation() {
               application for our partners from inception to deployment.
             </li>
             <li>
-              Built, designed, and developed innovative internally facing tools
-              and dashboards turning company from a pure product and sales
+              Built, designed, and developed innovative, internally facing tools
+              and dashboards that helped shift the company from a pure product and sales
               company into a data analytics driven company.
             </li>
             <li>
